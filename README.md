@@ -5,7 +5,7 @@ Name = "Piyush Raj"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime", "Game Developer"]
 Languages = ["Java", "Spring Boot", "C#"]
 
-![Kiyotaka Ayanokoji video](https://youtu.be/Q4AwHX6o1kU?si=a0gR0a5HhOmgDQOE)
+[![Watch the video](assets/preview.png)](https://www.youtube.com/watch?v=Q4AwHX6o1kU)
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-raj-9b0bb7228)
