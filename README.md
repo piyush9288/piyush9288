@@ -2,10 +2,10 @@
 
 ```python
 Name = "Piyush Raj"
-Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime", "Game Developer"]
+Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime", "Game Development"]
 Languages = ["Java", "Spring Boot", "C#"]
-
-[![Watch the video](assets/preview.png)](https://www.youtube.com/watch?v=Q4AwHX6o1kU)
+```
+![Kiyotaka Ayanokoji GIF](gif.gif)
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-raj-9b0bb7228)
