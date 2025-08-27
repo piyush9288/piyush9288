@@ -1,4 +1,4 @@
-# Konnichiwa! ![Funny GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNrN3FrMGxtd29tN3RhczVsazgxaDlvZGtnZm5yNm5kcXV1bjZhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.gif)
+# Konnichiwa! ![Funny GIF](https://s6.ezgif.com/tmp/ezgif-6716164cb1b67e.gif)
 
 ```python
 Name = "Piyush Raj"
