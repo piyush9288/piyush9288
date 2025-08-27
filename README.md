@@ -5,7 +5,8 @@ Name = "Piyush Raj"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime", "Game Development"]
 Languages = ["Java", "Spring Boot", "C#"]
 ```
-![Kiyotaka Ayanokoji GIF](gif.gif)
+<img src="gif.gif" width="400" alt="Typing GIF" />
+
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-raj-9b0bb7228)
