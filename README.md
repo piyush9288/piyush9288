@@ -5,7 +5,7 @@ Name = "Piyush Raj"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime", "Game Development"]
 Languages = ["Java", "Spring Boot", "C#"]
 ```
-<img src="gif.gif" width="400" alt="Typing GIF" />
+![Kiyotaka Ayanokoji GIF](gif.gif)
 
 
 # Connect with me
