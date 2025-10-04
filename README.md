@@ -1,4 +1,4 @@
-# Kiyotaka Ayanokoji! ![Kiyotaka Ayanokoji GIF](https://s3.ezgif.com/tmp/ezgif-3b2e9ab9bcfd4b.gif)
+# Kiyotaka Ayanokoji! ![Kiyotaka Ayanokoji GIF](https://tenor.com/bzTpj.gif)
 
 ```python
 Name = "Piyush Raj"
