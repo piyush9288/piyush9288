@@ -5,7 +5,7 @@ Name = "Piyush Raj"
 Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime", "Game Development"]
 Languages = ["Java", "Spring Boot", "C#"]
 ```
-<img src="gif.gif" width="600" alt="Typing GIF" />
+<img src="gif3.gif" width="1100px" hight="auto" alt="Typing GIF" />
 
 
 # Connect with me
